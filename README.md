@@ -1,4 +1,4 @@
-![](https://github.com/Matthewpco/WP-Theme-Diablo-Storefront/blob/main/d4s-landing.jpg)
+![](https://raw.githubusercontent.com/Matthewpco/WP-Plugin-Log-Search-Display/main/log-search-and-display-capture.jpg)
 
 # Plugin to search and display all log files on the site.
 
